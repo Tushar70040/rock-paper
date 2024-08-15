@@ -51,6 +51,8 @@ function playRound(human, computer) {
     playRound(getHumanChoice(),comChoice());
 
   };
+
+
   for(let i = 1;i<=5;i++){
     playgame();
   }
