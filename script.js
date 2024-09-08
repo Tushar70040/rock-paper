@@ -85,6 +85,7 @@ function playRound(human, computer) {// gam main logic
         finalResult = 'The game ends in a draw!';
     }
   
+    
      result.textContent = finalResult +" press f5 to restart";
 
      rock.disabled = true;
